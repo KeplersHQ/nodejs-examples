@@ -1,0 +1,16 @@
+{
+  "name": "keplers-smtp-example",
+  "version": "1.0.0",
+  "description": "Keplers.email SMTP example for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["keplers", "email", "smtp"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.9.7",
+    "dotenv": "^16.3.1"
+  }
+}
